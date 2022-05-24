@@ -44,6 +44,6 @@ Eu sou apaixonado por Engenharia de Software e Desenvolvimento de Jogos.
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 <div align='center'>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Diragon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diragon&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Diragonz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diragonz&layout=compact&langs_count=8&theme=tokyonight"/>
   </div>
